@@ -4,4 +4,4 @@
 💻 I love exploring **Data Structures & Algorithms, Web Development, and System Design**.  
 🎯 Currently solving **LeetCode problems** and diving deeper into **JavaScript & Backend Development**.  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sah1ls?theme=dark&font=Harmattan&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/sah1ls?theme=dark&font=Harmattan&ext=heatmap&width=500&height=500)  
