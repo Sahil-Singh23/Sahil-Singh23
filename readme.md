@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://leetcard.jacoblin.cool/sah1ls?theme=dark&font=Donegal%20One&ext=heatmap">
-        <img src="https://leetcard.jacoblin.cool/sah1ls?theme=dark&font=Donegal%20One&ext=heatmap" style="max-width: 100%;">
+        <img src="https://leetcard.jacoblin.cool/sah1ls?theme=dark&font=Donegal%20One&ext=heatmap" style="max-width: 115%; display: block; margin: auto;">
     </a>
 </p>
 
