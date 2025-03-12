@@ -1,4 +1,3 @@
-# Hello there, I'm Sahil Singh 👋  
 
 ## Leetcode Info
 
