@@ -22,8 +22,11 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlpc21rN3BvdDZ2aHByMndweThqZzl6MGQwd3BnYTZ4ZnVwY3FhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ch-Kumar-Kartik&label=Profile%20views&color=0e75b6&style=flat" alt="Ch-Kumar-Kartik" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Singh23&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil-Singh23" />
+</p>
 <br>
+
 - 🔭 I’m currently working on **Leetcode and JavaScript projects**
 
 - 🌱 I’m currently learning **JavaScript, Node js, DSA**
