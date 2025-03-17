@@ -31,6 +31,8 @@
 
 - 🌱 I’m currently learning **JavaScript, Node js, DSA**
 
+- 🧋 I love problem solving
+
 - 💬 Open to collaborating with people with similar interests
 
 - 📫 How to reach me **sahilhere13@gmail.com**
