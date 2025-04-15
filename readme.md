@@ -22,9 +22,6 @@
 - 📫 How to reach me **sahilhere13@gmail.com**
 
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 ## Leetcode Info
 
 <p align="center">
