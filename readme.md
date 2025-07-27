@@ -29,6 +29,9 @@
 ## Leetcode Info
 
 <p align="center">
+  <a href="https://leetcode.com/sah1ls/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode 2000 Days 2025 Badge" height="200" width="200" />
+    </a>
     <a href="https://leetcode.com/sah1ls/" target="_blank">
         <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days 2025 Badge" height="200" width="200" />
     </a>
