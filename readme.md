@@ -23,7 +23,7 @@
 
 - 💬 Open to collaborating with people with similar interests
 
-- 📫 How to reach me **sahilhere13@gmail.com**
+- 📫 Reach me at **sahilhere13@gmail.com**
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Leetcode Info
