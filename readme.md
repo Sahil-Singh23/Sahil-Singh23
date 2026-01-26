@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Sahil Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> </h1> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=,Exploring+Data+Structures+and+JavaScript,;Computer+Science+(IOT)+@CIT,;Into+Competitive+Programming,;Love+learning+new+tech"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=,Exploring+Data+Structures+and+JavaScript,;Computer+Science+(IOT)+@CIT,;Into+Competitive+Programming,;Love+learning+new+tech">
 </p>
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlpc21rN3BvdDZ2aHByMndweThqZzl6MGQwd3BnYTZ4ZnVwY3FhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif">
 
