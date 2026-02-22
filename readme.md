@@ -67,17 +67,17 @@
 
 <p align="center">
   <a href="https://leetcode.com/sah1ls/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 days Badge" height="130" width="130" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 days Badge" height="100" width="100" />
     </a>
   <a href="https://leetcode.com/sah1ls/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 300 Days 2025 Badge" height="130" width="130" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 300 Days 2025 Badge" height="100" width="100" />
     </a>
   
   <a href="https://leetcode.com/sah1ls/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode 200 Days 2025 Badge" height="130" width="130" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode 200 Days 2025 Badge" height="100" width="100" />
     </a>
     <a href="https://leetcode.com/sah1ls/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days 2025 Badge" height="130" width="130" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days 2025 Badge" height="100" width="100" />
     </a>
 </p>
 
