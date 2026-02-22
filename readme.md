@@ -28,9 +28,10 @@
 
 - 📫 Reach me at **sahilhere13@gmail.com**
 
+<br/><br/>
 <!-- Connect With Me -->
-<div align="center">
-  <h2>🔗 Let's Connect</h2>
+<div align="left">
+  
   
   <a href="https://linkedin.com/in/sahil-singh-here">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
@@ -53,7 +54,7 @@
   
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ## Languages and Tools
 <br/>
