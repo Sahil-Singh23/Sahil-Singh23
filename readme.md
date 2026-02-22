@@ -33,22 +33,22 @@
 <div align="left">
   
   
-  <a href="https://linkedin.com/in/sahil-singh-here">
+  <a href="https://www.linkedin.com/in/sah1l-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Sahil-Singh23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="32" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/your_x_handle">
+  <a href="https://x.com/Sah1LSingh">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="32" alt="X"/>
   </a>
   <a href="mailto:sahilhere13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://github.com/Sahil-Singh23">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=flat&logo=firefox&logoColor=white" height="32" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/your-resume-link">
+  <a href="">
     <img src="https://img.shields.io/badge/Resume-F77737?style=flat&logo=googledrive&logoColor=white" height="32" alt="Resume"/>
   </a>
   
