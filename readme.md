@@ -20,7 +20,7 @@
 
 - 🧋 800+ problems solved across platforms
 
-- 🌱 Building real-time & full-stack applications (WebSockets, WebRTC, Redis)
+- 🌱 Building realtime, fullstack applications (WS, WebRTC, Redis)
 
 - 🔭 Focused on mastering DSA patterns & system thinking
 
