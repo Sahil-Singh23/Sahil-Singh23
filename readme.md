@@ -18,16 +18,40 @@
 </p>
 
 
-- 🔭 I’m currently working on **Leetcode and JavaScript projects**
+- 🧋 800+ problems solved across platforms
 
-- 🌱 I’m currently learning **JavaScript, Node js, DSA**
+- 🌱 Building real-time & full-stack applications (WebSockets, WebRTC, Redis)
 
-- 🧋 I love problem solving
+- 🔭 Focused on mastering DSA patterns & system thinking
 
-- 💬 Open to collaborating with people with similar interests
+- 📈 Currently building scalable, production-ready systems
 
 - 📫 Reach me at **sahilhere13@gmail.com**
 
+<!-- Connect With Me -->
+<div align="center">
+  <h2>🔗 Let's Connect</h2>
+  
+  <a href="https://linkedin.com/in/sahil-singh-here">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Sahil-Singh23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="32" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/your_x_handle">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="32" alt="X"/>
+  </a>
+  <a href="mailto:sahilhere13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=flat&logo=firefox&logoColor=white" height="32" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/your-resume-link">
+    <img src="https://img.shields.io/badge/Resume-F77737?style=flat&logo=googledrive&logoColor=white" height="32" alt="Resume"/>
+  </a>
+  
+</div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
