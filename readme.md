@@ -9,6 +9,8 @@
 </p>
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlpc21rN3BvdDZ2aHByMndweThqZzl6MGQwd3BnYTZ4ZnVwY3FhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif">
 
+<!--src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJmbjF1NTFieHZtdHIxbzdqeXZ5bXAweWJiYWJ2Z2gxdTVvNGdvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif">-->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sahil-Singh23&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil-Singh23" />
   
