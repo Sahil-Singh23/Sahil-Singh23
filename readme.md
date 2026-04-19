@@ -20,7 +20,7 @@
 </p>
 
 
-- 🧋 800+ problems solved across platforms
+- 🧋 1000+ problems solved across platforms
 
 - 🌱 Building realtime, fullstack applications (WS, WebRTC, Redis)
 
