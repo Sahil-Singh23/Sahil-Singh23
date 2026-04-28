@@ -50,7 +50,7 @@
   <a href="https://github.com/Sahil-Singh23">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=flat&logo=firefox&logoColor=white" height="32" alt="Portfolio"/>
   </a> &nbsp;
-  <a href="">
+  <a href="https://sahils.tech/">
     <img src="https://img.shields.io/badge/Resume-F77737?style=flat&logo=googledrive&logoColor=white" height="32" alt="Resume"/>
   </a>
   
