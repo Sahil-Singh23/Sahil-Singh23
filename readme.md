@@ -47,7 +47,7 @@
   <a href="mailto:sahilhere13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
   </a> &nbsp;
-  <a href="https://github.com/Sahil-Singh23">
+  <a href="https://sahils.tech/">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=flat&logo=firefox&logoColor=white" height="32" alt="Portfolio"/>
   </a> &nbsp;
   <a href="https://sahils.tech/">
